@@ -1,3 +1,6 @@
+# Author: Shibin Shaji
+# Date: February 14, 2025
+# Description: This program test ICE2.
 import unittest
 from unittest.mock import patch
 from ICE2_100611292 import validate_temperature, process_temperatures, main
